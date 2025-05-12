@@ -1,5 +1,4 @@
 # Reversed Array Challenge
-this code will take input from user(size of the array and values of the array), 
-then print the reversed values of that array.
+This code will take the number (the size of the array and the values ​​of the array), and then print the inverse values ​​of that array.
 
 ![Whitboard for ReversedArray](Images/ArrayReversal.png)
