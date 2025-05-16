@@ -8,3 +8,8 @@ This code will take input from (size of the array and values of the array),
 then print the most frequent value in the array.
 
 ![Whitboard for MostFrequentNumber](Images/MostFrequentNumber.png)
+
+# Minimum Value Challenge
+This code will take array(size of the array and values of the array), and print the minimum number in that array.
+
+![Whitboard for MinimumValue](Images/MinimumValue.png)
