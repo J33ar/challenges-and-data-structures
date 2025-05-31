@@ -1,4 +1,4 @@
-### Whiteboard Images
+<!-- ### Whiteboard Images
 
 ### Reversed Array Challenge  
 [Link](./Whiteboard%20challenges/README.md)
@@ -10,4 +10,4 @@
 [Link](./Whiteboard%20challenges/README.md)
 
 ### Reverse Characters Challenge 
-[Link](./Whiteboard%20challenges/README.md)
+[Link](./Whiteboard%20challenges/README.md) -->
