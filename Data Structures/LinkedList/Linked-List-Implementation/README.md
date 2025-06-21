@@ -15,28 +15,28 @@
 
 ### Whiteboard Image
 >LinkedListClass and Funcations
-![AllFunction](/docs/allimg.png)
+![AllFunction](./docs/allimg.png)
 
 >LinkedList Class 
-![LinkedList](/docs/LinkedListClass.png)
+![LinkedList](./docs/LinkedListClass.png)
 
 >Add function 
-![add](/docs/add.png)
+![add](./docs/add.png)
 
 >Remove function
-![remove](/docs/remove.png)
+![remove](./docs/remove.png)
 
 >Include function 
-![include](/docs/includes.png)
+![include](./docs/includes.png)
 
 >InsertAt function 
-![inserAt](/docs/insert.png)
+![inserAt](./docs/insert.png)
 
 >PrintList function
-![printList ](/docs/print.png)
+![printList ](./docs/print.png)
 
 >Output 
-![OutPut](/docs/output.png)
+![OutPut](./docs/output.png)
 
 >Output test 
-![inserAt](/docs/cmd-test.png)
+![inserAt](./docs/cmd-test.png)
