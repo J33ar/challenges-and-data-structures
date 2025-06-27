@@ -33,46 +33,68 @@ const list = new linkedList();
 // list.remove(7);
 // list.printList();
 
-// Original List: Head -> 1 -> 2 -> 3 -> 4 -> Null
-list.add(1);
-list.add(2);
-list.add(3);
-list.add(4);
-console.log("Original List: ");
-list.printList();
-list.reverse();
-console.log("Reversed List: ");
-list.printList();
-// Reversed List: Head -> 4 -> 3 -> 2 -> 1 -> Null
-list.remove(1);
-list.remove(2);
-list.remove(3);
-list.remove(4);
-// Original List: Head -> 10 -> Null
-list.add(10);
-console.log("Original List: ");
-list.printList();
-list.reverse();
-console.log("Reversed List: ");
-list.printList();
-// Reversed List: Head -> 10 -> Null
-list.remove(10);
-// Original List: Head -> Null
-console.log("Original List: ");
-list.printList();
-list.reverse();
-console.log("Reversed List: ");
-list.printList();
-// Reversed List: Head -> Null
-// Original List: Head -> 1 -> 2 -> 2 -> 3 -> 4 -> Null
-console.log("Original List: ");
-list.add(1);
-list.add(2);
-list.add(2);
-list.add(3);
-list.add(4);
-list.printList();
-list.reverse();
-console.log("Reversed List: ");
-list.printList();
-// Reversed List: Head -> 4 -> 3 -> 2 -> 2 -> 1 -> Null
+// // Original List: Head -> 1 -> 2 -> 3 -> 4 -> Null
+// list.add(1);
+// list.add(2);
+// list.add(3);
+// list.add(4);
+// console.log("Original List: ");
+// list.printList();
+// list.reverse();
+// console.log("Reversed List: ");
+// list.printList();
+// // Reversed List: Head -> 4 -> 3 -> 2 -> 1 -> Null
+// list.remove(1);
+// list.remove(2);
+// list.remove(3);
+// list.remove(4);
+// // Original List: Head -> 10 -> Null
+// list.add(10);
+// console.log("Original List: ");
+// list.printList();
+// list.reverse();
+// console.log("Reversed List: ");
+// list.printList();
+// // Reversed List: Head -> 10 -> Null
+// list.remove(10);
+// // Original List: Head -> Null
+// console.log("Original List: ");
+// list.printList();
+// list.reverse();
+// console.log("Reversed List: ");
+// list.printList();
+// // Reversed List: Head -> Null
+// // Original List: Head -> 1 -> 2 -> 2 -> 3 -> 4 -> Null
+// console.log("Original List: ");
+// list.add(1);
+// list.add(2);
+// list.add(2);
+// list.add(3);
+// list.add(4);
+// list.printList();
+// list.reverse();
+// console.log("Reversed List: ");
+// list.printList();
+// // Reversed List: Head -> 4 -> 3 -> 2 -> 2 -> 1 -> Null
+
+const list1 = new linkedList();
+list1.add(1);
+list1.add(3);
+list1.add(5);
+list1.add(7);
+list1.add(9);
+
+const list2 = new linkedList();
+list2.add(2);
+list2.add(4);
+list2.add(6);
+list2.add(8);
+
+console.log("list 1 : ");
+list1.printList();
+console.log("list 2 : ");
+list2.printList();
+
+const merged = list.mergeSortedLists(list1,list2);
+console.log("merge Sorted Lists : ");
+merged.printList();
