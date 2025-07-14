@@ -68,4 +68,4 @@ If `k` is zero or a multiple of the list’s length, the list remains unchanged.
 
 ## Console Output for Test
  After running `npm test rotateLinkedList.test.js` in the console:  
-![console output](../docs/console-output-rotate.png)
+![console output](../docs/console-output-test-rotate.png)
