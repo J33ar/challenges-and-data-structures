@@ -38,3 +38,6 @@
 
 ### Trees   
 [Link](./Data%20Structures/Trees/TreeImplementation/README.md###Whiteboard%26Images)
+
+### Second-Max-Value  
+[Link](./Data%20Structures/Trees/TreeImplementation/SecondMaxValue/README.md###Whiteboard%26Images)
