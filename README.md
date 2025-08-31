@@ -41,3 +41,6 @@
 
 ### Second-Max-Value  
 [Link](./Data%20Structures/Trees/TreeImplementation/SecondMaxValue/README.md###Whiteboard%26Images)
+
+### Leaf Sum 
+[Link](./Data%20Structures/Trees/TreeImplementation/LeafSum/README.md###Whiteboard%26Images)
